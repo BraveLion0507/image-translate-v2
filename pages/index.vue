@@ -1,7 +1,7 @@
 <script setup lang="ts">
 const config = useRuntimeConfig();
 useHead({
-  title: "Cotrans Manga Image Translator by VoileLabs",
+  title: "",
 });
 
 const previewCanvas = ref<HTMLCanvasElement | null>(null);
